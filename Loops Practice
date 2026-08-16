@@ -33,3 +33,10 @@
 #     print(I)
 #     I+=1
 # print("Loop is finished")
+# #5
+# I=int(input("Enter Number"))
+# i=0
+# B=0
+# while B<=10:
+#     print(I, "Multiplied by", B, "is", B*I )
+#     B+=1
