@@ -1,55 +1,54 @@
-# #1
-# I=12
-# B=13
-# while I<15:
-#     print("Hello world")
-#     I+=1
-# if I==15:
-#     print("Sucessfully printed 3 times")
-# else:
-#     print("Printing is bad")
-# print(I)
-# #2
-# I=0
-# while I<10:
-#     print(I)
-#     I+=1
-# if I==10:
-#     print("You are arrived at", I)
-# else:
-#     print("You are missing")
-# #3
-# I=int(input("Enter your Number"))
-# while I>0:
-#     print(I)
-#     I-=1
-#     if I==0:
-#         print("You have arrived at 0")
-#     else:
-#        print("Not Reached")
-# #4
-# I=int(input("Enter your number"))
-# while I<=100:
-#     print(I)
-#     I+=1
-# print("Loop is finished")
-# #5
-# I=int(input("Enter Number"))
-# i=0
-# B=0
-# while B<=10:
-#     print(I, "Multiplied by", B, "is", B*I )
-#     B+=1
-
-# #6
-# lis= [12, 13, 19, 15]
-# i=0
-# while i<len(lis):
-#     print(lis[i])
-#     i+=1
-# print("Code Finished","\n")
-# Lists="Awara String"
-# j=0
-# while j<12:
-#     print(Lists[j])
-#     j+=1
+#1
+I=12
+B=13
+while I<15:
+    print("Hello world")
+    I+=1
+if I==15:
+    print("Sucessfully printed 3 times")
+else:
+    print("Printing is bad")
+print(I)
+#2
+I=0
+while I<10:
+    print(I)
+    I+=1
+if I==10:
+    print("You are arrived at", I)
+else:
+    print("You are missing")
+#3
+I=int(input("Enter your Number"))
+while I>0:
+    print(I)
+    I-=1
+    if I==0:
+        print("You have arrived at 0")
+    else:
+        print("Not Reached")
+#4
+I=int(input("Enter your number"))
+while I<=100:
+    print(I)
+    I+=1
+print("Loop is finished")
+#5
+I=int(input("Enter Number"))
+i=0
+B=0
+while B<=10:
+    print(I, "Multiplied by", B, "is", B*I )
+    B+=1
+#6
+lis= [12, 13, 19, 15]
+i=0
+while i<len(lis):
+    print(lis[i])
+    i+=1
+print("Code Finished","\n")
+Lists="Awara String"
+j=0
+while j<12:
+    print(Lists[j])
+    j+=1
