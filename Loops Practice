@@ -40,3 +40,16 @@
 # while B<=10:
 #     print(I, "Multiplied by", B, "is", B*I )
 #     B+=1
+
+# #6
+# lis= [12, 13, 19, 15]
+# i=0
+# while i<len(lis):
+#     print(lis[i])
+#     i+=1
+# print("Code Finished","\n")
+# Lists="Awara String"
+# j=0
+# while j<12:
+#     print(Lists[j])
+#     j+=1
