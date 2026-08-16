@@ -1,0 +1,11 @@
+# #1
+# I=12
+# B=13
+# while I<15:
+#     print("Hello world")
+#     I+=1
+# if I==15:
+#     print("Sucessfully printed 3 times")
+# else:
+#     print("Printing is bad")
+# print(I)
