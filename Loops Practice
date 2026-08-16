@@ -18,3 +18,12 @@
 #     print("You are arrived at", I)
 # else:
 #     print("You are missing")
+# #3
+# I=int(input("Enter your Number"))
+# while I>0:
+#     print(I)
+#     I-=1
+#     if I==0:
+#         print("You have arrived at 0")
+#     else:
+#         print("Not Reached")
